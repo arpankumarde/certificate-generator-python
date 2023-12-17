@@ -25,7 +25,7 @@ pip install openpyxl
 - Put your desired font in the `fonts` directory.
 
 - Put the Attendee list as XLSX file in the `input` directory <br/>
-  _Note: Make sure it has a `Names` field containing the names of the ._
+  _Note: Make sure it has a `Names` field containing the names of the Certificate receivers._
 
 _Note: Make sure to rename the file names to match the demo file names or change the relative file paths in the script to match your file names._
 
